@@ -11,23 +11,27 @@ Based on the vina table (unrevised), the number pairVine program and unpaied Vin
 
 If we consider the revised vine table where we removed null, collecting helpful data, the number of vine aand non vine as follow:
 
-![Alt, text](cleared total.png)
+![Alt, text](cleared%20total.png)
 
+From the table 2, Total number of Vina reviews 386 and non-vine is 48717. te non vine reviews are way more than vine reviews.
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 
 In terms of unrevised data vine_table
  the number as show follow
-![Alt, text](unrevisedtablefivestar)
+ 
+![Alt, text](unrevisedtablefivestar.png)
 
 however if we looked at the revised data
 the table show teh number of vine and non vine -five star reviews
-![Alt, text](revisedfive star)
+
+![Alt, text](revisedfive star.png)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![Alt, text](percentagepng)
+![Alt, text](percentagepng.png)
+
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 
