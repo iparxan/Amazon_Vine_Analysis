@@ -24,9 +24,11 @@ In terms of unrevised data vine_table
 ![Alt, text](unrevisedtablefivestar.png)
 
 however if we looked at the revised data
-the table show teh number of vine and non vine -five star reviews
+the table show the number of vine and non vine -five star reviews as follow:
 
-![Alt, text](revisedfive star.png)
+![Alt, text](revicedfive%20star.png)
+
+providing five star among  the vine reviews is 176 and for non vine is 
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
