@@ -28,12 +28,16 @@ the table show the number of vine and non vine -five star reviews as follow:
 
 ![Alt, text](revicedfive%20star.png)
 
-providing five star among  the vine reviews is 176 and for non vine is 
+providing five star among  the vine reviews is 176 and for non vine is 24026. Again the non-vine is outnumbered from vine reviews.
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ![Alt, text](percentagepng.png)
 
+the percentage of non-vine is about 60% and vine 44%.
+
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+if we hypothesed as tehre is no differences or no bias among the vine and non-vine program in terms of reviews. Based on teh descriptive there is bias in which there are more non-vine reviews prvided five strar compared to the vine reviews. However it need more statistical test in order to generilize .
 
 
