@@ -7,11 +7,11 @@ the project is analyzing Amazon reviews written by members of the paid Amazon Vi
 ### How many Vine reviews and non-Vine reviews were there?
 Based on the vina table (unrevised), the number pairVine program and unpaied Vine pregram reviews as follow:
 
-![Alt, text](C:/Users/Yakefu Mayila/Desktop/DataClass/Module16/totalreviewvineyesno.png)
+![Alt, text](totalreviewvineyesno.png)
 
 If we consider the revised vine table where we removed null, collecting helpful data, the number of vine aand non vine as follow:
 
-![Alt text](C:/Users/Yakefu Mayila/Desktop/DataClass/Module16/cleared total.png)
+![Alt, text](cleared total.png)
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
@@ -19,15 +19,15 @@ If we consider the revised vine table where we removed null, collecting helpful 
 
 In terms of unrevised data vine_table
  the number as show follow
-![Alt, text](C:/Users/Yakefu Mayila/Desktop/DataClass/Module16/unrevisedtablefivestar)
+![Alt, text](unrevisedtablefivestar)
 
 however if we looked at the revised data
 the table show teh number of vine and non vine -five star reviews
-![Alt, text](C:/Users/Yakefu Mayila/Desktop/DataClass/Module16/revisedfive star)
+![Alt, text](revisedfive star)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-![Alt, text](C:/Users/Yakefu Mayila/Desktop/DataClass/Module16/percentagepng)
+![Alt, text](percentagepng)
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 
