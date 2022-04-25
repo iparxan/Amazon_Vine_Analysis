@@ -38,6 +38,6 @@ the percentage of non-vine is about 60% and vine 44%.
 
 ## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-if we hypothesed as tehre is no differences or no bias among the vine and non-vine program in terms of reviews. Based on teh descriptive there is bias in which there are more non-vine reviews prvided five strar compared to the vine reviews. However it need more statistical test in order to generilize .
+if we hypothesed as there are no differences or no bias among the vine and non-vine program in terms of reviews. Based on the descriptive in table above there is bias in which there are more non-vine reviews prvided five strar compared (60%) to the vine reviews (44%). However, it need more statistical test in order to generilize .
 
 
